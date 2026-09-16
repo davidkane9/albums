@@ -1,0 +1,1112 @@
+[
+  {
+    "id": 0,
+    "name": "Queen - Queen (1973)",
+    "file": "data/1973_queen.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - The Ghost Of Tom Joad (1995)",
+      "file": "data/bruce_springsteen_1995_the_ghost_of_tom_joad.jpg",
+      "score": 0.72
+    },
+    "most_different": {
+      "name": "Queen - The Game (1980)",
+      "file": "data/1980_the_game.jpg",
+      "score": 0.29
+    }
+  },
+  {
+    "id": 1,
+    "name": "Queen - Queen Ii (1974)",
+    "file": "data/1974_queen_ii.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Vulture Love Presents The Last Zombies O (2024)",
+      "file": "data/kodak_black_2024_vulture_love_presents_the_last_zombies_o.jpg",
+      "score": 0.73
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.22
+    }
+  },
+  {
+    "id": 2,
+    "name": "Queen - Sheer Heart Attack (1974)",
+    "file": "data/1974_sheer_heart_attack.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Only The Strong Survive Covers Vol 1 (2022)",
+      "file": "data/bruce_springsteen_2022_only_the_strong_survive_covers_vol_1.jpg",
+      "score": 0.72
+    },
+    "most_different": {
+      "name": "Kodak Black - When I Was Dead (2023)",
+      "file": "data/kodak_black_2023_when_i_was_dead.jpg",
+      "score": 0.33
+    }
+  },
+  {
+    "id": 3,
+    "name": "Queen - A Night At The Opera (1975)",
+    "file": "data/1975_a_night_at_the_opera.jpg",
+    "most_similar": {
+      "name": "BTS - Be (2020)",
+      "file": "data/bts_2020_be.jpg",
+      "score": 0.99
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.18
+    }
+  },
+  {
+    "id": 4,
+    "name": "Queen - A Day At The Races (1976)",
+    "file": "data/1976_a_day_at_the_races.jpg",
+    "most_similar": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.83
+    },
+    "most_different": {
+      "name": "Kodak Black - Bill Israel (2020)",
+      "file": "data/kodak_black_2020_bill_israel.jpg",
+      "score": 0.12
+    }
+  },
+  {
+    "id": 5,
+    "name": "Queen - News Of The World (1977)",
+    "file": "data/1977_news_of_the_world.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Western Stars (2019)",
+      "file": "data/bruce_springsteen_2019_western_stars.jpg",
+      "score": 0.86
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.25
+    }
+  },
+  {
+    "id": 6,
+    "name": "Queen - Jazz (1978)",
+    "file": "data/1978_jazz.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Only The Strong Survive Covers Vol 1 (2022)",
+      "file": "data/bruce_springsteen_2022_only_the_strong_survive_covers_vol_1.jpg",
+      "score": 0.77
+    },
+    "most_different": {
+      "name": "BTS - Wings (2016)",
+      "file": "data/bts_2016_wings.jpg",
+      "score": 0.34
+    }
+  },
+  {
+    "id": 7,
+    "name": "Queen - Flash Gordon (1980)",
+    "file": "data/1980_flash_gordon.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Fearless (2008)",
+      "file": "data/taylor_swift_2008_fearless.jpg",
+      "score": 0.69
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.21
+    }
+  },
+  {
+    "id": 8,
+    "name": "Queen - The Game (1980)",
+    "file": "data/1980_the_game.jpg",
+    "most_similar": {
+      "name": "Queen - Made In Heaven (1995)",
+      "file": "data/1995_made_in_heaven.jpg",
+      "score": 0.73
+    },
+    "most_different": {
+      "name": "Taylor Swift - Red (2012)",
+      "file": "data/taylor_swift_2012_red.jpg",
+      "score": 0.26
+    }
+  },
+  {
+    "id": 9,
+    "name": "Queen - Hot Space (1982)",
+    "file": "data/1982_hot_space.jpg",
+    "most_similar": {
+      "name": "Queen - Jazz (1978)",
+      "file": "data/1978_jazz.jpg",
+      "score": 0.73
+    },
+    "most_different": {
+      "name": "Kodak Black - Vulture Love Presents The Last Zombies O (2024)",
+      "file": "data/kodak_black_2024_vulture_love_presents_the_last_zombies_o.jpg",
+      "score": 0.41
+    }
+  },
+  {
+    "id": 10,
+    "name": "Queen - The Works (1984)",
+    "file": "data/1984_the_works.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Evermore (2020)",
+      "file": "data/taylor_swift_2020_evermore.jpg",
+      "score": 0.84
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.33
+    }
+  },
+  {
+    "id": 11,
+    "name": "Queen - A Kind Of Magic (1986)",
+    "file": "data/1986_a_kind_of_magic.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - The Life Of A Showgirl (2025)",
+      "file": "data/taylor_swift_2025_the_life_of_a_showgirl.jpg",
+      "score": 0.8
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.27
+    }
+  },
+  {
+    "id": 12,
+    "name": "Queen - The Miracle (1989)",
+    "file": "data/1989_the_miracle.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Pistolz Pearlz (2023)",
+      "file": "data/kodak_black_2023_pistolz_pearlz.jpg",
+      "score": 0.78
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.38
+    }
+  },
+  {
+    "id": 13,
+    "name": "Queen - Innuendo (1991)",
+    "file": "data/1991_innuendo.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Bill Israel (2020)",
+      "file": "data/kodak_black_2020_bill_israel.jpg",
+      "score": 0.9
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.14
+    }
+  },
+  {
+    "id": 14,
+    "name": "Queen - Made In Heaven (1995)",
+    "file": "data/1995_made_in_heaven.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Nebraska (1982)",
+      "file": "data/bruce_springsteen_1982_nebraska.jpg",
+      "score": 0.81
+    },
+    "most_different": {
+      "name": "Queen - Queen Ii (1974)",
+      "file": "data/1974_queen_ii.jpg",
+      "score": 0.34
+    }
+  },
+  {
+    "id": 15,
+    "name": "Bruce Springsteen - Greetings From Asbury Park N J (1973)",
+    "file": "data/bruce_springsteen_1973_greetings_from_asbury_park_n_j.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Back For Everything (2022)",
+      "file": "data/kodak_black_2022_back_for_everything.jpg",
+      "score": 0.76
+    },
+    "most_different": {
+      "name": "BTS - Wings (2016)",
+      "file": "data/bts_2016_wings.jpg",
+      "score": 0.37
+    }
+  },
+  {
+    "id": 16,
+    "name": "Bruce Springsteen - The Wild The Innocent The E Street Shuff (1973)",
+    "file": "data/bruce_springsteen_1973_the_wild_the_innocent_the_e_street_shuff.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Human Touch (1992)",
+      "file": "data/bruce_springsteen_1992_human_touch.jpg",
+      "score": 0.82
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.26
+    }
+  },
+  {
+    "id": 17,
+    "name": "Bruce Springsteen - Born To Run (1975)",
+    "file": "data/bruce_springsteen_1975_born_to_run.jpg",
+    "most_similar": {
+      "name": "BTS - Be (2020)",
+      "file": "data/bts_2020_be.jpg",
+      "score": 0.95
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.2
+    }
+  },
+  {
+    "id": 18,
+    "name": "Bruce Springsteen - Darkness On The Edge Of Town (1978)",
+    "file": "data/bruce_springsteen_1978_darkness_on_the_edge_of_town.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Lucky Town (1992)",
+      "file": "data/bruce_springsteen_1992_lucky_town.jpg",
+      "score": 0.85
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.23
+    }
+  },
+  {
+    "id": 19,
+    "name": "Bruce Springsteen - The River (1980)",
+    "file": "data/bruce_springsteen_1980_the_river.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Speak Now Taylor S Version (2023)",
+      "file": "data/taylor_swift_2023_speak_now_taylor_s_version.jpg",
+      "score": 0.82
+    },
+    "most_different": {
+      "name": "BTS - Wings (2016)",
+      "file": "data/bts_2016_wings.jpg",
+      "score": 0.39
+    }
+  },
+  {
+    "id": 20,
+    "name": "Bruce Springsteen - Nebraska (1982)",
+    "file": "data/bruce_springsteen_1982_nebraska.jpg",
+    "most_similar": {
+      "name": "Queen - Made In Heaven (1995)",
+      "file": "data/1995_made_in_heaven.jpg",
+      "score": 0.81
+    },
+    "most_different": {
+      "name": "Taylor Swift - The Vault Deluxe (2021)",
+      "file": "data/taylor_swift_2021_the_vault_deluxe.jpg",
+      "score": 0.44
+    }
+  },
+  {
+    "id": 21,
+    "name": "Bruce Springsteen - Born In The U S A (1984)",
+    "file": "data/bruce_springsteen_1984_born_in_the_u_s_a.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Evermore (2020)",
+      "file": "data/taylor_swift_2020_evermore.jpg",
+      "score": 0.78
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.19
+    }
+  },
+  {
+    "id": 22,
+    "name": "Bruce Springsteen - Tunnel Of Love (1987)",
+    "file": "data/bruce_springsteen_1987_tunnel_of_love.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Reputation (2017)",
+      "file": "data/taylor_swift_2017_reputation.jpg",
+      "score": 0.88
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.2
+    }
+  },
+  {
+    "id": 23,
+    "name": "Bruce Springsteen - Human Touch (1992)",
+    "file": "data/bruce_springsteen_1992_human_touch.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Painting Pictures (2017)",
+      "file": "data/kodak_black_2017_painting_pictures.jpg",
+      "score": 0.84
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.2
+    }
+  },
+  {
+    "id": 24,
+    "name": "Bruce Springsteen - Lucky Town (1992)",
+    "file": "data/bruce_springsteen_1992_lucky_town.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Darkness On The Edge Of Town (1978)",
+      "file": "data/bruce_springsteen_1978_darkness_on_the_edge_of_town.jpg",
+      "score": 0.85
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.28
+    }
+  },
+  {
+    "id": 25,
+    "name": "Bruce Springsteen - The Ghost Of Tom Joad (1995)",
+    "file": "data/bruce_springsteen_1995_the_ghost_of_tom_joad.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - The Life Of A Showgirl (2025)",
+      "file": "data/taylor_swift_2025_the_life_of_a_showgirl.jpg",
+      "score": 0.86
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.27
+    }
+  },
+  {
+    "id": 26,
+    "name": "Bruce Springsteen - The Rising (2002)",
+    "file": "data/bruce_springsteen_2002_the_rising.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Letter To You (2020)",
+      "file": "data/bruce_springsteen_2020_letter_to_you.jpg",
+      "score": 0.87
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.26
+    }
+  },
+  {
+    "id": 27,
+    "name": "Bruce Springsteen - Devils Dust (2005)",
+    "file": "data/bruce_springsteen_2005_devils_dust.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Dying To Live (2018)",
+      "file": "data/kodak_black_2018_dying_to_live.jpg",
+      "score": 0.75
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.26
+    }
+  },
+  {
+    "id": 28,
+    "name": "Bruce Springsteen - We Shall Overcome The Seeger Sessions (2006)",
+    "file": "data/bruce_springsteen_2006_we_shall_overcome_the_seeger_sessions.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - The Ghost Of Tom Joad (1995)",
+      "file": "data/bruce_springsteen_1995_the_ghost_of_tom_joad.jpg",
+      "score": 0.83
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.24
+    }
+  },
+  {
+    "id": 29,
+    "name": "Bruce Springsteen - Magic (2007)",
+    "file": "data/bruce_springsteen_2007_magic.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Fearless (2008)",
+      "file": "data/taylor_swift_2008_fearless.jpg",
+      "score": 0.86
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.21
+    }
+  },
+  {
+    "id": 30,
+    "name": "Bruce Springsteen - Working On A Dream (2008)",
+    "file": "data/bruce_springsteen_2008_working_on_a_dream.jpg",
+    "most_similar": {
+      "name": "Queen - Jazz (1978)",
+      "file": "data/1978_jazz.jpg",
+      "score": 0.75
+    },
+    "most_different": {
+      "name": "Bruce Springsteen - Born To Run (1975)",
+      "file": "data/bruce_springsteen_1975_born_to_run.jpg",
+      "score": 0.35
+    }
+  },
+  {
+    "id": 31,
+    "name": "Bruce Springsteen - Wrecking Ball (2012)",
+    "file": "data/bruce_springsteen_2012_wrecking_ball.jpg",
+    "most_similar": {
+      "name": "BTS - Be (2020)",
+      "file": "data/bts_2020_be.jpg",
+      "score": 0.77
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.32
+    }
+  },
+  {
+    "id": 32,
+    "name": "Bruce Springsteen - High Hopes (2014)",
+    "file": "data/bruce_springsteen_2014_high_hopes.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Taylor Swift (2006)",
+      "file": "data/taylor_swift_2006_taylor_swift.jpg",
+      "score": 0.8
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.24
+    }
+  },
+  {
+    "id": 33,
+    "name": "Bruce Springsteen - Western Stars (2019)",
+    "file": "data/bruce_springsteen_2019_western_stars.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - The Rising (2002)",
+      "file": "data/bruce_springsteen_2002_the_rising.jpg",
+      "score": 0.86
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.24
+    }
+  },
+  {
+    "id": 34,
+    "name": "Bruce Springsteen - Letter To You (2020)",
+    "file": "data/bruce_springsteen_2020_letter_to_you.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Evermore (2020)",
+      "file": "data/taylor_swift_2020_evermore.jpg",
+      "score": 0.87
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.4
+    }
+  },
+  {
+    "id": 35,
+    "name": "Bruce Springsteen - Only The Strong Survive Covers Vol 1 (2022)",
+    "file": "data/bruce_springsteen_2022_only_the_strong_survive_covers_vol_1.jpg",
+    "most_similar": {
+      "name": "Queen - Jazz (1978)",
+      "file": "data/1978_jazz.jpg",
+      "score": 0.77
+    },
+    "most_different": {
+      "name": "Kodak Black - When I Was Dead (2023)",
+      "file": "data/kodak_black_2023_when_i_was_dead.jpg",
+      "score": 0.21
+    }
+  },
+  {
+    "id": 36,
+    "name": "BTS - Dark Wild (2014)",
+    "file": "data/bts_2014_dark_wild.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Speak Now Taylor S Version (2023)",
+      "file": "data/taylor_swift_2023_speak_now_taylor_s_version.jpg",
+      "score": 0.79
+    },
+    "most_different": {
+      "name": "Queen - A Night At The Opera (1975)",
+      "file": "data/1975_a_night_at_the_opera.jpg",
+      "score": 0.36
+    }
+  },
+  {
+    "id": 37,
+    "name": "BTS - Wake Up (2014)",
+    "file": "data/bts_2014_wake_up.jpg",
+    "most_similar": {
+      "name": "Queen - Made In Heaven (1995)",
+      "file": "data/1995_made_in_heaven.jpg",
+      "score": 0.7
+    },
+    "most_different": {
+      "name": "Queen - Queen Ii (1974)",
+      "file": "data/1974_queen_ii.jpg",
+      "score": 0.34
+    }
+  },
+  {
+    "id": 38,
+    "name": "BTS - Wings (2016)",
+    "file": "data/bts_2016_wings.jpg",
+    "most_similar": {
+      "name": "Queen - A Night At The Opera (1975)",
+      "file": "data/1975_a_night_at_the_opera.jpg",
+      "score": 0.98
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.13
+    }
+  },
+  {
+    "id": 39,
+    "name": "BTS - Youth (2016)",
+    "file": "data/bts_2016_youth.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - The Tortured Poets Department (2024)",
+      "file": "data/taylor_swift_2024_the_tortured_poets_department.jpg",
+      "score": 0.85
+    },
+    "most_different": {
+      "name": "Queen - Queen Ii (1974)",
+      "file": "data/1974_queen_ii.jpg",
+      "score": 0.33
+    }
+  },
+  {
+    "id": 40,
+    "name": "BTS - Face Yourself (2018)",
+    "file": "data/bts_2018_face_yourself.jpg",
+    "most_similar": {
+      "name": "BTS - Be (2020)",
+      "file": "data/bts_2020_be.jpg",
+      "score": 0.97
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.22
+    }
+  },
+  {
+    "id": 41,
+    "name": "BTS - Love Yourself Tear (2018)",
+    "file": "data/bts_2018_love_yourself_tear.jpg",
+    "most_similar": {
+      "name": "Queen - A Kind Of Magic (1986)",
+      "file": "data/1986_a_kind_of_magic.jpg",
+      "score": 0.68
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.26
+    }
+  },
+  {
+    "id": 42,
+    "name": "BTS - Be (2020)",
+    "file": "data/bts_2020_be.jpg",
+    "most_similar": {
+      "name": "BTS - Map Of The Soul 7 (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7.jpg",
+      "score": 0.99
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.23
+    }
+  },
+  {
+    "id": 43,
+    "name": "BTS - Map Of The Soul 7 (2020)",
+    "file": "data/bts_2020_map_of_the_soul_7.jpg",
+    "most_similar": {
+      "name": "BTS - Be (2020)",
+      "file": "data/bts_2020_be.jpg",
+      "score": 0.99
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.19
+    }
+  },
+  {
+    "id": 44,
+    "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+    "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+    "most_similar": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.83
+    },
+    "most_different": {
+      "name": "Kodak Black - Bill Israel (2020)",
+      "file": "data/kodak_black_2020_bill_israel.jpg",
+      "score": 0.12
+    }
+  },
+  {
+    "id": 45,
+    "name": "BTS - Arirang (2026)",
+    "file": "data/bts_2026_arirang.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - The Ghost Of Tom Joad (1995)",
+      "file": "data/bruce_springsteen_1995_the_ghost_of_tom_joad.jpg",
+      "score": 0.77
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.23
+    }
+  },
+  {
+    "id": 46,
+    "name": "Kodak Black - Painting Pictures (2017)",
+    "file": "data/kodak_black_2017_painting_pictures.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Human Touch (1992)",
+      "file": "data/bruce_springsteen_1992_human_touch.jpg",
+      "score": 0.84
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.21
+    }
+  },
+  {
+    "id": 47,
+    "name": "Kodak Black - Dying To Live (2018)",
+    "file": "data/kodak_black_2018_dying_to_live.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Devils Dust (2005)",
+      "file": "data/bruce_springsteen_2005_devils_dust.jpg",
+      "score": 0.75
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.22
+    }
+  },
+  {
+    "id": 48,
+    "name": "Kodak Black - Bill Israel (2020)",
+    "file": "data/kodak_black_2020_bill_israel.jpg",
+    "most_similar": {
+      "name": "Queen - Innuendo (1991)",
+      "file": "data/1991_innuendo.jpg",
+      "score": 0.9
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.12
+    }
+  },
+  {
+    "id": 49,
+    "name": "Kodak Black - Back For Everything (2022)",
+    "file": "data/kodak_black_2022_back_for_everything.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Greetings From Asbury Park N J (1973)",
+      "file": "data/bruce_springsteen_1973_greetings_from_asbury_park_n_j.jpg",
+      "score": 0.76
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.32
+    }
+  },
+  {
+    "id": 50,
+    "name": "Kodak Black - Pistolz Pearlz (2023)",
+    "file": "data/kodak_black_2023_pistolz_pearlz.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - The River (1980)",
+      "file": "data/bruce_springsteen_1980_the_river.jpg",
+      "score": 0.79
+    },
+    "most_different": {
+      "name": "BTS - Wings (2016)",
+      "file": "data/bts_2016_wings.jpg",
+      "score": 0.39
+    }
+  },
+  {
+    "id": 51,
+    "name": "Kodak Black - When I Was Dead (2023)",
+    "file": "data/kodak_black_2023_when_i_was_dead.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - The Life Of A Showgirl (2025)",
+      "file": "data/taylor_swift_2025_the_life_of_a_showgirl.jpg",
+      "score": 0.76
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.2
+    }
+  },
+  {
+    "id": 52,
+    "name": "Kodak Black - Dieuson Octave (2024)",
+    "file": "data/kodak_black_2024_dieuson_octave.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - The Life Of A Showgirl (2025)",
+      "file": "data/taylor_swift_2025_the_life_of_a_showgirl.jpg",
+      "score": 0.84
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.25
+    }
+  },
+  {
+    "id": 53,
+    "name": "Kodak Black - Trill Bill (2024)",
+    "file": "data/kodak_black_2024_trill_bill.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Evermore (2020)",
+      "file": "data/taylor_swift_2020_evermore.jpg",
+      "score": 0.8
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.42
+    }
+  },
+  {
+    "id": 54,
+    "name": "Kodak Black - Vulture Love Presents The Last Zombies O (2024)",
+    "file": "data/kodak_black_2024_vulture_love_presents_the_last_zombies_o.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Just Getting Started (2025)",
+      "file": "data/kodak_black_2025_just_getting_started.jpg",
+      "score": 0.73
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.21
+    }
+  },
+  {
+    "id": 55,
+    "name": "Kodak Black - Just Getting Started (2025)",
+    "file": "data/kodak_black_2025_just_getting_started.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Vulture Love Presents The Last Zombies O (2024)",
+      "file": "data/kodak_black_2024_vulture_love_presents_the_last_zombies_o.jpg",
+      "score": 0.73
+    },
+    "most_different": {
+      "name": "Taylor Swift - The Tortured Poets Department (2024)",
+      "file": "data/taylor_swift_2024_the_tortured_poets_department.jpg",
+      "score": 0.32
+    }
+  },
+  {
+    "id": 56,
+    "name": "Kodak Black - Kodak The Blessing (2026)",
+    "file": "data/kodak_black_2026_kodak_the_blessing.jpg",
+    "most_similar": {
+      "name": "BTS - Dark Wild (2014)",
+      "file": "data/bts_2014_dark_wild.jpg",
+      "score": 0.76
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.34
+    }
+  },
+  {
+    "id": 57,
+    "name": "Taylor Swift - Taylor Swift (2006)",
+    "file": "data/taylor_swift_2006_taylor_swift.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - The Rising (2002)",
+      "file": "data/bruce_springsteen_2002_the_rising.jpg",
+      "score": 0.85
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.27
+    }
+  },
+  {
+    "id": 58,
+    "name": "Taylor Swift - Fearless (2008)",
+    "file": "data/taylor_swift_2008_fearless.jpg",
+    "most_similar": {
+      "name": "Queen - Innuendo (1991)",
+      "file": "data/1991_innuendo.jpg",
+      "score": 0.87
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.2
+    }
+  },
+  {
+    "id": 59,
+    "name": "Taylor Swift - Speak Now (2010)",
+    "file": "data/taylor_swift_2010_speak_now.jpg",
+    "most_similar": {
+      "name": "BTS - Face Yourself (2018)",
+      "file": "data/bts_2018_face_yourself.jpg",
+      "score": 0.91
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.21
+    }
+  },
+  {
+    "id": 60,
+    "name": "Taylor Swift - Red (2012)",
+    "file": "data/taylor_swift_2012_red.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Western Stars (2019)",
+      "file": "data/bruce_springsteen_2019_western_stars.jpg",
+      "score": 0.78
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.19
+    }
+  },
+  {
+    "id": 61,
+    "name": "Taylor Swift - 1989 (2014)",
+    "file": "data/taylor_swift_2014_1989.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Fearless (2008)",
+      "file": "data/taylor_swift_2008_fearless.jpg",
+      "score": 0.8
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.21
+    }
+  },
+  {
+    "id": 62,
+    "name": "Taylor Swift - Reputation (2017)",
+    "file": "data/taylor_swift_2017_reputation.jpg",
+    "most_similar": {
+      "name": "BTS - Face Yourself (2018)",
+      "file": "data/bts_2018_face_yourself.jpg",
+      "score": 0.91
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.23
+    }
+  },
+  {
+    "id": 63,
+    "name": "Taylor Swift - Lover (2019)",
+    "file": "data/taylor_swift_2019_lover.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Fearless (2008)",
+      "file": "data/taylor_swift_2008_fearless.jpg",
+      "score": 0.8
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.23
+    }
+  },
+  {
+    "id": 64,
+    "name": "Taylor Swift - Evermore (2020)",
+    "file": "data/taylor_swift_2020_evermore.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - Letter To You (2020)",
+      "file": "data/bruce_springsteen_2020_letter_to_you.jpg",
+      "score": 0.87
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.27
+    }
+  },
+  {
+    "id": 65,
+    "name": "Taylor Swift - Folklore (2020)",
+    "file": "data/taylor_swift_2020_folklore.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - The Vault Deluxe (2021)",
+      "file": "data/taylor_swift_2021_the_vault_deluxe.jpg",
+      "score": 0.87
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.27
+    }
+  },
+  {
+    "id": 66,
+    "name": "Taylor Swift - Fearless Taylor S Version (2021)",
+    "file": "data/taylor_swift_2021_fearless_taylor_s_version.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Painting Pictures (2017)",
+      "file": "data/kodak_black_2017_painting_pictures.jpg",
+      "score": 0.79
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.19
+    }
+  },
+  {
+    "id": 67,
+    "name": "Taylor Swift - Red Taylor S Version (2021)",
+    "file": "data/taylor_swift_2021_red_taylor_s_version.jpg",
+    "most_similar": {
+      "name": "Kodak Black - Trill Bill (2024)",
+      "file": "data/kodak_black_2024_trill_bill.jpg",
+      "score": 0.79
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.38
+    }
+  },
+  {
+    "id": 68,
+    "name": "Taylor Swift - The Vault Deluxe (2021)",
+    "file": "data/taylor_swift_2021_the_vault_deluxe.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Folklore (2020)",
+      "file": "data/taylor_swift_2020_folklore.jpg",
+      "score": 0.87
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.25
+    }
+  },
+  {
+    "id": 69,
+    "name": "Taylor Swift - Midnights (2022)",
+    "file": "data/taylor_swift_2022_midnights.jpg",
+    "most_similar": {
+      "name": "Queen - Innuendo (1991)",
+      "file": "data/1991_innuendo.jpg",
+      "score": 0.84
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.18
+    }
+  },
+  {
+    "id": 70,
+    "name": "Taylor Swift - 1989 Taylor S Version (2023)",
+    "file": "data/taylor_swift_2023_1989_taylor_s_version.jpg",
+    "most_similar": {
+      "name": "Taylor Swift - Folklore (2020)",
+      "file": "data/taylor_swift_2020_folklore.jpg",
+      "score": 0.81
+    },
+    "most_different": {
+      "name": "BTS - Map Of The Soul 7 The Journey (2020)",
+      "file": "data/bts_2020_map_of_the_soul_7_the_journey.jpg",
+      "score": 0.19
+    }
+  },
+  {
+    "id": 71,
+    "name": "Taylor Swift - Speak Now Taylor S Version (2023)",
+    "file": "data/taylor_swift_2023_speak_now_taylor_s_version.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - The River (1980)",
+      "file": "data/bruce_springsteen_1980_the_river.jpg",
+      "score": 0.82
+    },
+    "most_different": {
+      "name": "BTS - Wings (2016)",
+      "file": "data/bts_2016_wings.jpg",
+      "score": 0.34
+    }
+  },
+  {
+    "id": 72,
+    "name": "Taylor Swift - The Tortured Poets Department (2024)",
+    "file": "data/taylor_swift_2024_the_tortured_poets_department.jpg",
+    "most_similar": {
+      "name": "BTS - Youth (2016)",
+      "file": "data/bts_2016_youth.jpg",
+      "score": 0.85
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.21
+    }
+  },
+  {
+    "id": 73,
+    "name": "Taylor Swift - The Life Of A Showgirl (2025)",
+    "file": "data/taylor_swift_2025_the_life_of_a_showgirl.jpg",
+    "most_similar": {
+      "name": "Bruce Springsteen - The Ghost Of Tom Joad (1995)",
+      "file": "data/bruce_springsteen_1995_the_ghost_of_tom_joad.jpg",
+      "score": 0.86
+    },
+    "most_different": {
+      "name": "Queen - A Day At The Races (1976)",
+      "file": "data/1976_a_day_at_the_races.jpg",
+      "score": 0.25
+    }
+  }
+]

@@ -2,6 +2,42 @@
 title: "Albums"
 ---
 
-This is a Quarto website.
+Select an album from the dropdown below to compare it with the rest of the collection:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+```{ojs}
+//| echo: false
+albums = FileAttachment("data/similarities.json").json()
+
+viewof selected = Inputs.select(
+  albums,
+  { label: "Select an album:", format: d => d.name }
+)
+```
+
+```{ojs}
+//| echo: false
+html`
+<div style="margin-top: 1.5rem; max-width: 420px;">
+  <h3 style="margin-bottom: 0.25rem;">Selected Album</h3>
+  <p style="font-weight: 600; color: #495057;">${selected.name}</p>
+  <img src="${selected.file}" alt="${selected.name}" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</div>
+
+<div style="display: flex; gap: 24px; flex-wrap: wrap; margin-top: 2rem; max-width: 860px;">
+  <div style="flex: 1; min-width: 280px; padding: 1.25rem; border: 1px solid #c3e6cb; border-radius: 8px; background-color: #f4faf6;">
+    <h4 style="color: #155724; margin-top: 0;">Most Similar</h4>
+    <p style="font-weight: 600; margin-bottom: 0.25rem;">${selected.most_similar.name}</p>
+    <p style="color: #6c757d; font-size: 0.9rem; margin-bottom: 0.75rem;">Similarity Score: <strong>${selected.most_similar.score}</strong></p>
+    <img src="${selected.most_similar.file}" alt="${selected.most_similar.name}" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </div>
+
+  <div style="flex: 1; min-width: 280px; padding: 1.25rem; border: 1px solid #f5c6cb; border-radius: 8px; background-color: #fdf7f7;">
+    <h4 style="color: #721c24; margin-top: 0;">Most Different</h4>
+    <p style="font-weight: 600; margin-bottom: 0.25rem;">${selected.most_different.name}</p>
+    <p style="color: #6c757d; font-size: 0.9rem; margin-bottom: 0.75rem;">Similarity Score: <strong>${selected.most_different.score}</strong></p>
+    <img src="${selected.most_different.file}" alt="${selected.most_different.name}" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+`
+```
+
